@@ -1,5 +1,3 @@
-# Due to my limited time and energy, this project is no longer maintained. Feel free to fork it.
-
 > fork from: https://github.com/venera-app/venera
 
 # venera
